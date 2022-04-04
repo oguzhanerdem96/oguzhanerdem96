@@ -1,13 +1,14 @@
-### Hi there 👋
+### Oğuzhan ERDEM  (iOS Developer) 👋
 
-<!--
-**oguzhanerdem96/oguzhanerdem96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Swift
+- 🌱 I’m currently learning Swift
 
-Here are some ideas to get you started:
+### . Social Media
 
-- 🔭 I’m currently working on swift
-- 🌱 I’m currently learning swift
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+<a href = 'https://www.linkedin.com/in/oğuzhan-erdem-48a6b9191/' > <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=oguzhanerdem96&show_icons=true&theme=gradient) 
-
+<p >
+<img width='40px' align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
 

@@ -1,6 +1,5 @@
 ### Oğuzhan ERDEM  (iOS Developer) 👋
 
-- 🔭 I’m currently working on Swift
 - 🌱 I’m currently learning Swift
 
 ### . Social Media

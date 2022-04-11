@@ -1,6 +1,6 @@
 ### Oğuzhan ERDEM  (iOS Developer) 👋
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift UIKit
 
 ### . Social Media
 
